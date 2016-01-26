@@ -20,9 +20,9 @@ library
 
   build-depends:
       base >=4.7 && <5,
-    , bson     >= 0.3
-    , ghc-prim >= 0.4
-    , text     >= 1.2
+      bson     >= 0.3,
+      ghc-prim >= 0.4,
+      text     >= 1.2
 
   ghc-options: -O2
 
